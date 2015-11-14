@@ -1,0 +1,16 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    font-size: 80px;
+}
+
+.photo{
+   display: block;
+   margin:auto;
+}
+.center{
+  text-align: center;
+}
+.JOHN{
+  text-align: center;
+}
